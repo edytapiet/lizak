@@ -1,1 +1,2 @@
-To jest plik testowy
+tekst = "To jest plik testowy"
+print(tekst)
